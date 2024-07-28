@@ -17,3 +17,7 @@ user_pref("browser.urlbar.suggest.recentsearches", false);
 user_pref("browser.translations.automaticallyPopup", false);
 user_pref("media.eme.enabled", false);
 user_pref("geo.enabled", false);
+user_pref("signon.rememberSignons", false);
+user_pref("signon.management.page.breach-alerts.enabled", false);
+user_pref("signon.generation.enabled", false);
+user_pref("signon.firefoxRelay.feature", "disabled");
