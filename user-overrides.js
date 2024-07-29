@@ -21,3 +21,4 @@ user_pref("signon.rememberSignons", false);
 user_pref("signon.management.page.breach-alerts.enabled", false);
 user_pref("signon.generation.enabled", false);
 user_pref("signon.firefoxRelay.feature", "disabled");
+user_pref("general.autoScroll", true);
