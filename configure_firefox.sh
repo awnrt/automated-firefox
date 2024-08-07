@@ -14,7 +14,7 @@ URL_UPDATER_SH="https://raw.githubusercontent.com/arkenfox/user.js/master/update
 URL_USER_OVERRIDES_JS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/user-overrides.js"
 URL_USERCHROME_CSS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/userChrome.css"
 URL_USERCONTENT_CSS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/userContent.css"
-URL_UBLOCK_BACKUP="https://codeberg.org/awy/user-overrides.js/src/branch/master/ublock_backup.txt"
+URL_UBLOCK_BACKUP="https://codeberg.org/awy/user-overrides.js/raw/branch/master/ublock_backup.txt"
 
 FILES_DIR="${HOME}/files"
 
