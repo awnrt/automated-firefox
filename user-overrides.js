@@ -28,3 +28,4 @@ user_pref("permissions.default.geo", 2);
 user_pref("permissions.default.microphone", 2);
 
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+user_pref("browser.compactmode.show", true);
