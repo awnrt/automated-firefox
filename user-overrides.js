@@ -22,3 +22,9 @@ user_pref("signon.management.page.breach-alerts.enabled", false);
 user_pref("signon.generation.enabled", false);
 user_pref("signon.firefoxRelay.feature", "disabled");
 user_pref("general.autoScroll", true);
+user_pref("permissions.default.desktop-notification", 2);
+user_pref("permissions.default.camera", 2);
+user_pref("permissions.default.geo", 2);
+user_pref("permissions.default.microphone", 2);
+
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
