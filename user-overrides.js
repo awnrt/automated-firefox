@@ -1,16 +1,3 @@
-//user_pref("browser.urlbar.autoFill", false);
-//user_pref("browser.urlbar.suggest.addons", false);
-
-//user_pref("browser.urlbar.suggest.mdn", false);
-//
-//
-//user_pref("browser.urlbar.suggest.recentsearches", false);
-//
-//user_pref("signon.rememberSignons", false);
-//user_pref("signon.management.page.breach-alerts.enabled", false);
-//user_pref("signon.generation.enabled", false);
-//user_pref("signon.firefoxRelay.feature", "disabled");
-
 //  Permissions, Privacy and Cookies
 user_pref("media.eme.enabled", false);
 user_pref("permissions.default.desktop-notification", 2);
@@ -34,7 +21,15 @@ user_pref("browser.urlbar.suggest.history", false);
 user_pref("browser.urlbar.suggest.engines", false);
 user_pref("browser.urlbar.suggest.openpage", false);
 user_pref("browser.urlbar.suggest.topsites", false);
+user_pref("browser.urlbar.autoFill", false);
+user_pref("browser.urlbar.suggest.addons", false);
+user_pref("browser.urlbar.suggest.mdn", false);
+user_pref("browser.urlbar.suggest.recentsearches", false);
 user_pref("browser.translations.automaticallyPopup", false);
+user_pref("signon.firefoxRelay.feature", "disabled");
+user_pref("signon.rememberSignons", false);
+user_pref("signon.management.page.breach-alerts.enabled", false);
+user_pref("signon.generation.enabled", false);
 
 //  Smoothfox
 user_pref("general.autoScroll", true);
