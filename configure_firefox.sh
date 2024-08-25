@@ -11,10 +11,10 @@ CYAN='\e[1;96m' WHITE='\e[1;97m'
 
 URL_USER_JS="https://raw.githubusercontent.com/arkenfox/user.js/master/user.js"
 URL_UPDATER_SH="https://raw.githubusercontent.com/arkenfox/user.js/master/updater.sh"
-URL_USER_OVERRIDES_JS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/user-overrides.js"
-URL_USERCHROME_CSS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/userChrome.css"
-URL_USERCONTENT_CSS="https://codeberg.org/awy/user-overrides.js/raw/branch/master/userContent.css"
-URL_UBLOCK_BACKUP="https://codeberg.org/awy/user-overrides.js/raw/branch/master/ublock_backup.txt"
+URL_USER_OVERRIDES_JS="https://raw.githubusercontent.com/awnrt/automated-firefox/master/user-overrides.js"
+URL_USERCHROME_CSS="https://raw.githubusercontent.com/awnrt/automated-firefox/master/userChrome.css"
+URL_USERCONTENT_CSS="https://raw.githubusercontent.com/awnrt/automated-firefox/master/userContent.css"
+URL_UBLOCK_BACKUP="https://raw.githubusercontent.com/awnrt/automated-firefox/master/ublock_backup.txt"
 
 FILES_DIR="${HOME}/files"
 
