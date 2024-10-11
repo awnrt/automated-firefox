@@ -159,7 +159,7 @@ place_files() {
 	move_file "user.js"
 	move_file "user-overrides.js"
 	move_file "updater.sh"
-	# move_file "userChrome.css"
+	move_file "userChrome.css"
 	# move_file "userContent.css"
 }
 

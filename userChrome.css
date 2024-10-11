@@ -1,103 +1,12 @@
-/* Remove Context Menu Entries */
-#context-back, #context-take-screenshot, #context-forward, #context-reload, #context-stop, #context-bookmarkpage, #context-savepage, #context-pocket, #screenshots_mozilla_org_create-screenshot, #context-inspect, #context-sep-selectall, #context-selectall, #context-copylink, #context-copy, #context-viewsource, #context-viewinfo, #context-print-selection, #context-viewpartialsource-selection, #context-inspect-a11y, #context-openlinkintab, #context-openlink, #context-openlinkprivate, #context-bookmarklink, #context-savelink, #context-savelinktopocket, #context-copyimage-contents, #context-copyimage, #context-sendimage, #context-searchselect-private {
-    display: none !important
+#alltabs-button {
+	display: none !important;
 }
 
-#statuspanel[type="overLink"] {opacity: 0 !important;}
-#statuspanel {opacity: 0 !important;}
-#statuspanel {display:none!important}
-#statuspanel-label { display: none !important; }
-
-#unified-extensions-button:hover #unified-extensions-view,
-#unified-extensions-view:hover {
-  visibility: visible !important;
-  opacity: 1 !important;
+#nav-bar toolbarspring {
+	display: none !important;
 }
 
-/* Hide URL suggestions and other elements */
-#urlbar-results,
-#urlbar-go-button,
-#page-action-buttons,
-#identity-box,
-#tracking-protection-icon-container,
-#reader-mode-button-container {
-  display: none !important;
+#firefox-view-button {
+	display: none !important;
 }
 
-/* Hide "This time search with" suggestion */
-#urlbar-one-offs-header-label {
-  display: none !important;
-}
-
-/* Hide search engine symbols */
-#urlbar-engine-one-off-item,
-#urlbar-one-off-search-buttons {
-  display: none !important;
-}
-
-/* Disable one-off search */
-#urlbar[oneoffsearchfieldshidden] {
-  pointer-events: none !important;
-}
-
-/* Hide sidebar */
-#sidebar-box {
-    visibility: collapse !important;
-}
-
-/* Hide bottom status/ui bar */
-#status-bar {
-    visibility: collapse !important;
-}
-
-scrollbar {
-    -moz-appearance: none !important;
-    display: none !important;
-    width: 0px !important;
-    background-color: transparent !important;
-}
-
-scrollcorner {
-    -moz-appearance: none !important;
-    display: none !important;
-}
-
-*[id*="sep"], *[class*="sep"] {
-    display: none !important;
-}
-
-/* Remove back, forward, and refresh buttons */
-#back-button,
-#forward-button,
-#reload-button {
-  display: none !important;
-}
-
-/* Remove tab close button */
-.tab-close-button {
-  display: none !important;
-}
-
-/* Remove new tab button */
-#tabs-newtab-button {
-  display: none !important;
-}
-
-.titlebar-buttonbox-container {
-  display: none !important;
-}
-
-#stop-button {
-  display: none !important;
-}
-
-#customizableui-special-spring1,
-#customizableui-special-spring2 {
-  display: none !important;
-}
-
-.search-one-offs {
-  display: none !important;
-  height: 0 !important;
-  overflow: hidden !important;
-}
