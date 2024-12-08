@@ -14,8 +14,8 @@ user_pref("browser.tabs.tabmanager.enabled", false);
 user_pref("identity.fxaccounts.enabled", false); 
 user_pref("browser.preferences.moreFromMozilla", false);
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
-user_pref("browser.compactmode.show", true);
-user_pref("browser.uidensity", 1);
+//user_pref("browser.compactmode.show", true);
+//user_pref("browser.uidensity", 1);
 user_pref("browser.urlbar.suggest.bookmark", false);
 user_pref("browser.urlbar.suggest.history", false);
 user_pref("browser.urlbar.suggest.engines", false);
@@ -30,6 +30,8 @@ user_pref("signon.firefoxRelay.feature", "disabled");
 user_pref("signon.rememberSignons", false);
 user_pref("signon.management.page.breach-alerts.enabled", false);
 user_pref("signon.generation.enabled", false);
+user_pref("sidebar.revamp", true);
+user_pref("sidebar.verticalTabs", true);
 
 //  Smoothfox
 user_pref("general.autoScroll", true);
