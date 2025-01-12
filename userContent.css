@@ -1,8 +1,17 @@
-body, html {
-    overflow: -moz-scrollbars-none;
-    scrollbar-width: none !important;
+@-moz-document url(aboutnewtab) {
+  body {
+    background-color #000000 !important;
+  }
 }
 
-* {
-    scrollbar-width: none !important;
+@-moz-document url(aboutblank) {
+  body {
+    background-color #000000 !important;
+  }
+}
+
+@-moz-document url(chromebrowsercontentbrowser.xhtml) {
+  browser[type=content-primary] {
+    background #000000 !important
+  }
 }
