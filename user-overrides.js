@@ -10,6 +10,7 @@ user_pref("cookiebanners.service.enableGlobalRules", true);
 
 // Black about:blank page
 user_pref("browser.display.background_color.dark", "#000000");
+user_pref("extensions.activeThemeID", "{22b0eca1-8c02-4c0d-a5d7-6604ddd9836e}");
 
 // CleanUI
 user_pref("extensions.pocket.enabled", false); 
