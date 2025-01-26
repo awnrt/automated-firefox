@@ -7,6 +7,21 @@
   #content,
   browser[type="content"] > html
   {
-     background: #000000 !important;
+     background: #1d2021 !important;
   }
 }
+
+#reload-button { display: none !important; }
+#back-button { display: none !important; }
+#forward-button { display: none !important; }
+#sidebar-button { display: none !important; }
+#firefox-view-button { display: none !important; }
+#new-tab-button { display: none !important; }
+#alltabs-button { display: none !important; }
+#stop-button { display: none !important; }
+#identity-permission-box { display: none !important; }
+#picture-in-picture-button { display: none !important; }
+#tracking-protection-icon-container { display: none !important; }
+#star-button-box { display: none !important; }
+#pageAction-urlbar-_testpilot-containers { display: none !important; }
+#navigator-toolbox > #PersonalToolbar { display: none !important; }
