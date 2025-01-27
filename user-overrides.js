@@ -9,7 +9,7 @@ user_pref("cookiebanners.service.mode.privateBrowsing", 1);
 user_pref("cookiebanners.service.enableGlobalRules", true);
 
 // Black about:blank page
-user_pref("browser.display.background_color.dark", "#1d2021");
+user_pref("browser.display.background_color.dark", "#32302f");
 
 // CleanUI
 user_pref("extensions.pocket.enabled", false); 
