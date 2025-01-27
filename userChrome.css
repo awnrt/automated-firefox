@@ -1,14 +1,14 @@
 @-moz-document url(chrome://browser/content/browser.xhtml)
 {
-  #main-window,
-  browser[type="content-primary"],
-  browser[type="content"],
-  tabbrowser#content,
-  #content,
-  browser[type="content"] > html
-  {
-     background: #1d2021 !important;
-  }
+	#main-window,
+	browser[type="content-primary"],
+	browser[type="content"],
+	tabbrowser#content,
+	#content,
+	browser[type="content"] > html
+	{
+		background: #1d2021 !important;
+	}
 }
 
 #reload-button { display: none !important; }
@@ -26,5 +26,7 @@
 #pageAction-urlbar-_testpilot-containers { display: none !important; }
 #navigator-toolbox > #PersonalToolbar { display: none !important; }
 #tabbrowser-tabbox {
-  outline: none !important;
+	outline: none !important;
+	box-shadow: none !important;
+
 } 
