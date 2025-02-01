@@ -174,7 +174,7 @@ install_extensions() {
 	EXT_DIR="${LIBREW_PROF_DIR}/extensions"
 	mkdir -pv "${EXT_DIR}"
 
-	ADDON_NAMES=("ublock-origin" "sponsorblock" "violentmonkey" "darkreader" "multi-account-containers" "vimium-ff" "nicothin-space" "enhancer-for-youtube")
+	ADDON_NAMES=("ublock-origin" "violentmonkey" "darkreader" "vimium-ff")
 
 	for ADDON_NAME in "${ADDON_NAMES[@]}"
 	do
