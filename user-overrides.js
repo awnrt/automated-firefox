@@ -1,3 +1,6 @@
+// Hardware acceleration
+user_pref("media.ffmpeg.vaapi.enabled", true);
+
 //  Permissions, Privacy and Cookies
 user_pref("media.eme.enabled", false);
 user_pref("permissions.default.desktop-notification", 2);
