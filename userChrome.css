@@ -7,7 +7,9 @@
 	#content,
 	browser[type="content"] > html
 	{
-		background: #32302f !important;
+		/*gruvbox*/
+		/*background: #32302f !important;*/
+		background: #353C4A !important;
 	}
 }
 

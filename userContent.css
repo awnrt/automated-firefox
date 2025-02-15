@@ -1,17 +1,17 @@
 @-moz-document url(aboutnewtab) {
   body {
-    background-color #000000 !important;
+    background-color #353C4A !important;
   }
 }
 
 @-moz-document url(aboutblank) {
   body {
-    background-color #000000 !important;
+    background-color #353C4A !important;
   }
 }
 
 @-moz-document url(chromebrowsercontentbrowser.xhtml) {
   browser[type=content-primary] {
-    background #000000 !important
+    background #353C4A !important
   }
 }
