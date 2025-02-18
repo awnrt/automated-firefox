@@ -11,10 +11,10 @@ CYAN='\e[1;96m' WHITE='\e[1;97m'
 
 URL_USER_JS="https://raw.githubusercontent.com/arkenfox/user.js/master/user.js"
 URL_UPDATER_SH="https://raw.githubusercontent.com/arkenfox/user.js/master/updater.sh"
-URL_USER_OVERRIDES_JS="https://git.awy.one/automated-firefox.git/plain/user-overrides.js"
-URL_USERCHROME_CSS="https://git.awy.one/automated-firefox.git/plain/userChrome.css"
-URL_USERCONTENT_CSS="https://git.awy.one/automated-firefox.git/plain/userContent.css"
-URL_UBLOCK_BACKUP="https://git.awy.one/automated-firefox.git/plain/ublock_backup.txt"
+URL_USER_OVERRIDES_JS="https://raw.githubusercontent.com/awnrt/automated-firefox/refs/heads/master/user-overrides.js"
+URL_USERCHROME_CSS="https://raw.githubusercontent.com/awnrt/automated-firefox/refs/heads/master/userChrome.css"
+URL_USERCONTENT_CSS="https://raw.githubusercontent.com/awnrt/automated-firefox/refs/heads/master/userContent.css"
+URL_UBLOCK_BACKUP="https://raw.githubusercontent.com/awnrt/automated-firefox/refs/heads/master/ublock_backup.txt"
 
 FILES_DIR="${HOME}/files"
 
