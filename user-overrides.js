@@ -1,6 +1,9 @@
 // Hardware acceleration
 user_pref("media.ffmpeg.vaapi.enabled", true);
 
+// Disable speech recognition warning
+user_pref("media.webspeech.synth.enabled", false);
+
 //  Permissions, Privacy and Cookies
 user_pref("media.eme.enabled", false);
 user_pref("permissions.default.desktop-notification", 2);
