@@ -32,3 +32,5 @@
 	box-shadow: none !important;
 
 } 
+#reader-mode-button { display: none !important; }
+#translations-button { display: none !important; }
